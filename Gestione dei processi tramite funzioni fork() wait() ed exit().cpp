@@ -76,7 +76,7 @@ void processi(){
    cout << "-TUTTI I PROCESSI SONO TERMINATI.";
 }
 
-int main(){
+int main(int argc, char const* argv){
 
     cout << "Gestione dei processi tramite funzioni fork() wait() ed exit()" << endl << endl;
 
